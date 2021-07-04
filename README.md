@@ -22,4 +22,16 @@ Following the verbal description of a given task and using the dynamic programmi
 
 The cells of the square board (n × n) are integers. The snake from the bottom right must face the top left. It can only creep into the box on the left or at the top. 
 
-You need to determine the route with the maximum sum of cells and calculate this sum
+You need to determine the route with the maximum sum of cells and calculate this sum.
+
+Example:
+
+A =
+1 2 3 4
+2 2 3 4
+3 9 8 4
+4 5 6 7
+max_path_sum =
+36
+max_path =
+7 6 8 9 3 2 1
