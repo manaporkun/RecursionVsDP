@@ -27,11 +27,15 @@ You need to determine the route with the maximum sum of cells and calculate this
 Example:
 
 A =
+
 1 2 3 4
+
 2 2 3 4
+
 3 9 8 4
+
 4 5 6 7
-max_path_sum =
-36
-max_path =
-7 6 8 9 3 2 1
+
+max_path_sum = 36
+
+max_path = 7 6 8 9 3 2 1
